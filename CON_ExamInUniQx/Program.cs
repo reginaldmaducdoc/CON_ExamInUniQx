@@ -10,10 +10,10 @@ namespace CON_ExamInUniQx
     {
         static void Main(string[] args)
         {
-            //Quiz1.Quiz.Start();
-            //Quiz2.Quiz.Start();
-            //Quiz3.Quiz.Start();
-            //Quiz4.Quiz.Start();
+            Quiz1.Quiz.Start();
+            Quiz2.Quiz.Start();
+            Quiz3.Quiz.Start();
+            Quiz4.Quiz.Start();
             Quiz5.Quiz.Start();
         }
     }
